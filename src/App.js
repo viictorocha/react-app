@@ -58,7 +58,7 @@ function App() {
         />
         </Box>
         <Box mt={2}>
-          <Button color="primary" variant="contained" type="submit">Login</Button>
+          <Button color="primary" variant="contained" type="submit">Entrar</Button>
         </Box>
       </form>
       </Box>
